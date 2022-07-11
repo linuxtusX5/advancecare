@@ -1,0 +1,22 @@
+#back {
+    background: url(../../Photos/Advance\ care\ \(1\).png)center center / cover no-repeat fixed;
+    min-height: 100vh;
+}
+#B2 {
+    height: 100vh;
+    left: 0;
+    position: absolute;
+    backdrop-filter: blur(20px) saturate(168%);
+    background: rgba(255, 255, 255, 0.3);
+    padding: 10vh 0 0 0;
+    box-shadow: none !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    overflow: auto;
+    text-align: justify;
+    padding: 20px;
+}
+.img-circle4 {
+    height: 120px;
+    width: 450px;
+}
